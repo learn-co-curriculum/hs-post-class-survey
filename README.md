@@ -12,3 +12,5 @@ Students must fill out a slip of paper at the end of every class with the follow
 * Was class...easy, medium, hard
 * Any additional comments
 
+
+<a href='https://learn.co/lessons/hs-post-class-survey' data-visibility='hidden'>View this lesson on Learn.co</a>
