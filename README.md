@@ -13,4 +13,4 @@ Students must fill out a slip of paper at the end of every class with the follow
 * Any additional comments
 
 
-<a href='https://learn.co/lessons/hs-post-class-survey' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-post-class-survey' title='Student Micro Feedback'>Student Micro Feedback</a> on Learn.co and start learning to code for free.</p>
